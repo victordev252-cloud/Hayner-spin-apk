@@ -1,0 +1,6 @@
+{
+  "name": "Hayner Spin",
+  "description": "Premium Android spinning wheel application with customizable wheels, sound effects, themes, daily challenges, and spin history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
